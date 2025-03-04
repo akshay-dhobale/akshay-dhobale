@@ -28,14 +28,14 @@ I'm an experienced **Engineering Team Lead** with a strong background in backend
 
 ---
 
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-dhobale&layout=compact&langs_count=8&theme=github_dark)
+
+---
+
+
 ### 📌 **GitHub Contributions & Projects**  
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=akshay-dhobale&theme=github-dark)
-
-
-
-![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/akshay-dhobale?style=for-the-badge)
-
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/34D058/akshay-dhobale)
 
