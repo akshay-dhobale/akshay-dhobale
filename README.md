@@ -29,6 +29,8 @@ I'm an experienced **Engineering Team Lead** with a strong background in backend
 ---
 
 ### 📌 **GitHub Contributions & Projects**  
+![GitHub Contribution Graph](https://ghchart.rshah.org/34D058/akshay-dhobale)
+
 
 🔹 Check out my repositories where I experiment with **backend architectures, AI integrations, and system optimizations**.  
 🔹 Open to **collaborations and open-source contributions** – feel free to reach out!  
