@@ -29,6 +29,9 @@ I'm an experienced **Engineering Team Lead** with a strong background in backend
 ---
 
 ### 📌 **GitHub Contributions & Projects**  
+![GitHub Commit Activity](https://img.shields.io/github/commit-activity/y/akshay-dhobale?style=for-the-badge)
+
+
 ![GitHub Contribution Graph](https://ghchart.rshah.org/34D058/akshay-dhobale)
 
 
