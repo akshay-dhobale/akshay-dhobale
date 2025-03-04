@@ -36,6 +36,7 @@ I'm an experienced **Engineering Team Lead** with a strong background in backend
 ### 🏆 GitHub Metrics
 
 ![GitHub Metrics](https://github.com/akshay-dhobale/github-metrics/blob/main/github-metrics.svg)
+![Lines of Code](https://wakatime.com/badge/user/YOUR_WAKATIME_USER_ID.svg)
 
 ---
 
