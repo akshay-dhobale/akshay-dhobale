@@ -33,7 +33,11 @@ I'm an experienced **Engineering Team Lead** with a strong background in backend
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay-dhobale&layout=compact&langs_count=8&theme=github_dark)
 
 ---
+### 🏆 GitHub Metrics
 
+![GitHub Metrics](https://github.com/akshay-dhobale/github-metrics/blob/main/github-metrics.svg)
+
+---
 
 ### 📌 **GitHub Contributions & Projects**  
 
