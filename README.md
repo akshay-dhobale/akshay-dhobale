@@ -9,8 +9,8 @@ I'm an experienced **Engineering Team Lead** with a strong background in backend
 ### 🔧 **Technical Expertise**  
 
 - **Backend Development**: Ruby on Rails, Python, Node.js  
-- **Databases**: PostgreSQL, MySQL, MongoDB  
-- **Cloud & DevOps**: AWS (EC2, S3, RDS, Lambda), Docker, Kubernetes  
+- **Databases**: PostgreSQL, MySQL, MongoDB, Redis
+- **Cloud & DevOps**: AWS (EC2, S3, RDS, Lambda), Cloudwatch, Datadog, Sentry, Docker, Kubernetes  
 - **Messaging & Processing**: Resque, Sidekiq, Redis, Celery  
 - **Frontend**: React.js (Rails to React migrations), JavaScript  
 - **Agile & Team Management**: Sprint Planning, Code Reviews, POCs, Architecture Design  
