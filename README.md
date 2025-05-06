@@ -19,7 +19,7 @@ I'm an experienced **Engineering Team Lead** with a strong background in backend
 
 ### 🌟 **Key Contributions**  
 
-- **AI-Powered Features**: Spearheaded **AI Content Recommendation**, **Job Role to Skill Mapping**, **AI-Based Content-Skill & Channel Mapping** an**AI Analyst**.  
+- **AI-Powered Features**: Spearheaded **AI Content Recommendation**, **Job Role to Skill Mapping**, **AI-Based Content-Skill & Channel Mapping** and **AI Analyst**.  
 - **Hownow Plus (HNP)**: Led the development of a **premium content aggregation platform**, contributing **20% of company revenue**.  
 - **Third-Party Integrations**: Integrated **15+ content providers** and **authoring tools**, improving platform capabilities.  
 - **Performance Optimization**: Implemented **MongoDB dashboards**, reducing data latency and improving analytics.  
